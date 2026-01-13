@@ -3,3 +3,4 @@ instaloader==4.10.1
 requests==2.31.0
 yt-dlp==2024.3.10
 python-dotenv==1.0.0
+PYTHON_VERSION=3.11
